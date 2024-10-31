@@ -1,4 +1,4 @@
-package sort_04;
+package search_05;
 
 import java.util.Scanner;
 
